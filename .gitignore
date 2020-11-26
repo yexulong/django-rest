@@ -139,3 +139,4 @@ dmypy.json
 .idea/modules.xml
 .idea/sonarIssues.xml
 .idea/vcs.xml
+test.py
