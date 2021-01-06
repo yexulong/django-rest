@@ -140,3 +140,6 @@ dmypy.json
 .idea/sonarIssues.xml
 .idea/vcs.xml
 test.py
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/dataSources/
